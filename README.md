@@ -1,4 +1,4 @@
-# Customer-Segmentation-
+# Customer-Segmentation
 Customer Segmentation using Unsupervised Machine Learning in Python,companies work hard to make their customers happy.
 
  They launch new technologies and services so that customers can use their products more. They try to be in touch with each of their customers so that they can provide goods accordingly. But practically, it’s very difficult and non-realistic to keep in touch with everyone. So, here comes the usage of Customer Segmentation.
